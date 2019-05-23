@@ -1,0 +1,8 @@
+import elementos.*
+test "barrios" {
+
+	var hogar1 = new Hogar(mugre = 20, confort = 50)
+	var huerta1 = new Huerta(produccion = 100)
+	
+
+}
